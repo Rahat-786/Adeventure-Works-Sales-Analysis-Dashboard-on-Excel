@@ -1,5 +1,7 @@
 # Adeventure-Works-Sales-Analysis-Dashboard-on-Excel
 
+https://github.com/Rahat-786/Adeventure-Works-Sales-Analysis-Dashboard-on-Excel/assets/66958229/8e3ecea7-d0d9-457d-9320-278f064a299a
+
 <h1 align="center">Hi 👋, I'm Rahat</h1>
 <h3 align="center">Dual Processor Data Scientist</h3>
 
